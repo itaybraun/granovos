@@ -85,3 +85,9 @@ The size of a panel isn't just a design choice; it controls the **rhythm and vol
 * **Narrative Captions:** Rectangular boxes containing the narrator’s voice or internal thoughts.
 * **SFX (Sound Effects):** Stylized text that represents sound (e.g., *CRACK*, *WHAM*). These are treated as part of the artwork, not just text.
 * **Pointers (Tails):** The "tail" of the speech bubble that points to the character speaking. Proper placement prevents the reader from getting confused about who is talking.
+
+## Recommended Resources - Storyboarding & Layout
+
+To further refine your workflow—especially for the critical thumbnail and storyboard phases—here is a curated list of professional resources.
+ 
+* **[Katalist: How to Storyboard a Comic](https://www.katalist.ai/how-to-storyboard/comic)**: A deep dive into the technical side of turning a script into a visual layout, focusing on pacing and composition.
