@@ -3,7 +3,20 @@ Graphic Novel Operation System - Create Graphic Novels using AI
 
 # How to Write and Make a Graphic Novel with AI Tools: A Step-by-Step Guide
 
----
+## TLDR: Graphic Novel AI Workflow
+
+1.  **Premise and Story Beats**: Establish a core narrative compass and a high-level plot skeleton before writing a full script.
+2.  **Visual Tone and World Bible**: Define the aesthetic "rules," including color palettes and lighting, to ensure visual consistency.
+3.  **Loose Script and Panel Breakdown**: Create a flexible, image-focused script that treats text as secondary to visual sequencing.
+4.  **Character Design**: Develop consistent reference assets (turnarounds and expressions) to prevent "character drift" in AI outputs.
+5.  **Thumbnails**: Rapidly sketch page layouts to solve pacing and composition issues before committing to high-fidelity art.
+6.  **Macro Pacing Decisions**: Review the book's overall rhythm to ensure emotional moments have enough visual "breathing room."
+7.  **Panel Art**: Generate high-resolution backgrounds and character panels using logged prompts and reference images.
+8.  **Inking and Line Finish**: Apply a unified line style and shadow logic to harmonize disparate AI-generated elements.
+9.  **Color**: Implement a limited color script to reinforce mood and maintain professional visual discipline.
+10. **Lettering**: Add dialogue and sound effects last, ensuring they fit within pre-planned spaces without crowding the art.
+11. **Full Polish Read**: Conduct final checks for visual continuity errors and verify that the story is legible through images alone.
+
 
 ## A Note on Process
 
@@ -13,7 +26,7 @@ The other thing to understand upfront: this is a visual medium first. Every deci
 
 AI tools fit naturally into this workflow, but they require a specific discipline: **consistency management**. A human artist builds visual memory across hundreds of pages. An AI image tool does not. Every phase below notes where AI can accelerate your work and where you need to compensate for its limitations.
 
----
+
 
 ## Step 1 — Premise and Story Beats
 
@@ -25,7 +38,7 @@ From there, outline the major story beats — not a full script, just the skelet
 
 > **AI note:** This is an excellent stage to use a language model as a story development partner. Feed it your premise and ask it to pressure-test the logic, suggest beat variations, identify pacing problems, or generate alternative inciting incidents. Treat its output as raw material — your instinct edits it, not the other way around. Tools like Claude or ChatGPT work well here for pure narrative thinking.
 
----
+
 
 ## Step 2 — Visual Tone and World Bible
 
@@ -37,7 +50,7 @@ Collect reference images. Define a base color palette of four to six colors you 
 
 > **AI note:** Image generation tools (Midjourney, Stable Diffusion, Ideogram) are excellent for world-building exploration at this stage. Generate mood boards rapidly — different lighting setups, architectural styles, color palettes — without committing hours of drawing time. You are not generating final art; you are making decisions. Save every prompt that produces something close to your vision. These prompts become the foundation of your visual style guide and will be reused throughout production to maintain consistency.
 
----
+
 
 ## Step 3 — Loose Script and Panel Breakdown
 
@@ -49,7 +62,7 @@ Think of this as a conversation between writer and artist — even if you are bo
 
 > **AI note:** A language model can help you break story beats into panel-by-panel sequences. Describe a scene and ask it to suggest how it might unfold across five or six panels — what each panel shows, what the camera angle might be, what is said. This is particularly useful for action sequences and transitions, which are hard to think through in prose. Treat the output as a draft to react to, not a finished script to copy.
 
----
+
 
 ## Step 4 — Character Design
 
@@ -72,7 +85,7 @@ For every major character, create:
 >
 > Time invested here pays dividends for every panel that follows. A weak or inconsistent character reference will haunt the entire book.
 
----
+
 
 ## Step 5 — Thumbnails
 
