@@ -1,6 +1,6 @@
-# granovos
+# Granovos
+Graphic Novel Operation System - A practical guideline for creating Graphic Novels with some help of AI. 
 
-Graphic Novel Operation System - Create Graphic Novels using AI
 ---
 
 # How to Write and Make a Graphic Novel with AI Tools: A Step-by-Step Guide
