@@ -15,17 +15,11 @@ This repository is dedicated to the **project management, asset organization, an
 
 ---
 
-## Directory Structure
 
-To manage a project of this scale, we use the following hierarchy:
-
-* **`01_Narrative_Core/`**: Contains the "Story Bible," including the full Hebrew synopsis and translated summaries.
-* **`02_Characters/`**: Detailed profiles for leads like **Miklosh**, **Major Singer**, and **Gadi Ashkenazi**. Includes visual consistency sheets for 1970s IDF uniforms.
-* **`03_Scripts/`**: Sequential scripts broken down into three acts:
-    1.  *Part A: The Sinai Desert* (October 1973)
-    2.  *Part B: True Kindness / Be'eri* (January 1974)
-    3.  *Part C: Eternal Rest* (June 1974)
-* **`04_Assets/`**: Historical references, including maps of the Sinai front, 1970s military hardware, and the "Goral HaGra" ritual documentation.
-* **`05_Production/`**: Storyboards and final renders.
-
----
+## Scripts
+Sequential scripts broken down into three acts:
+- **Prolougue**
+-  **Part A: The Sinai Desert** (October 1973)
+-  **Part B: True Kindness / Be'eri** (January 1974)
+-  **Part C: Eternal Rest** (June 1974)
+-  **Epilogue**
