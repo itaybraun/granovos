@@ -6,23 +6,34 @@ Graphic Novel Operation System - A practical guideline for creating Graphic Nove
 # How to Write and Make a Graphic Novel with AI Tools: A Step-by-Step Guide
 
 ## TLDR: Graphic Novel AI Workflow
-
 ### Phase 1 — Planning
+1. **Synopsis**
+A 2–3 paragraph "North Star" covering what happens, who it follows, and what is at stake. Every later decision—from dialogue to AI image prompts—checks back here for alignment.
 
-1.  **Synopsis**
-    2–3 paragraphs covering what happens, who it follows, and what's at stake. Your north star — every later decision checks back here.
-2.  **Thematic Core**
-    What the story is really about beneath the plot — the emotional truth, the theme, the question the story is asking. Not "a detective solves a murder" but **"a man confronts what he's willing to ignore to feel safe."**
-3.  **Story Arc**
-    The transformation map: where characters start emotionally and morally, what pressures force them to change, and where they end up. The *why* beneath the *what*. Distinct from the synopsis — the synopsis says what happens, the arc explains what it means for the people it happens to.
-4.  **Character Map (Light)**
-    Names, roles, core desire, and central flaw for each main character. Enough to write the narrative summary with consistent people — full profiles come later.
-5.  **Narrative Summary**
-    A scene-by-scene account of what happens — events, encounters, turning points in sequence. This is the *what*, not the *why*. Where the arc asks "how does she change?", the narrative summary answers "she confronts her brother in chapter 3, loses her job in chapter 5..."
-6.  **Character Map (Full)**
-    Expand each character into a full profile: backstory, relationships to other characters, arc within the story, visual notes. Derived from the narrative summary, so it reflects who the characters actually became on the page.
-7.  **Back Cover**
-    Up to 150 words. The person at the bookstore gives you 20 seconds — this must earn it. Written last in the planning phase because it's a distillation of everything above, not a starting point.
+2. **Thematic Core**
+The "Emotional Truth" beneath the plot. Not the mechanics of the story, but the question it asks. (e.g., *"Is a holy lie more merciful than a cruel truth?"*) This guides the visual tone and subtext.
+
+3. **Story Arc**
+The transformation map. It tracks where characters start emotionally and morally, what pressures force them to change, and where they end up. It is the *why* beneath the *what*.
+
+4. **Character Map (Light)**
+Basic names, roles, core desires, and central flaws. This is just enough information to keep the Narrative Summary consistent before deep-diving into full designs.
+
+5. **Narrative Summary**
+A scene-by-scene account of the events in sequence. This is a functional document—the "skeleton" of the plot—answering exactly what happens in each chapter or major sequence.
+
+6. **Treatment (Expanded Narrative)**
+A prose expansion of the Narrative Summary (typically 2,000–10,000 words).
+* **Purpose:** To establish pacing, atmosphere, and specific character beats without the technical constraint of panel layouts.
+
+> **The "Scriptment" Option:**
+> A hybrid between a **Script** and a **Treatment**. If critical dialogue or specific "voice" beats emerge while writing the Treatment, you include them directly. For an AI workflow, a Scriptment is highly efficient because it captures the *rhythm* of the dialogue alongside the *action* of the scene, preventing the AI from hallucinating a tone that doesn't fit your characters.
+
+7. **Character Map (Full)**
+Deep-dive profiles including backstories, relationship webs, and visual reference notes. This is where you finalize the "Consistency Prompts" for your AI image generation tools (e.g., specific facial features or clothing for Miklosh and Aaron).
+
+8. **Back Cover**
+Up to 150 words. The "Elevator Pitch." Written last in the planning phase because it is the ultimate distillation of the entire story—the hook that earns 20 seconds of a reader's attention.
 
 ---
 
