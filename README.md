@@ -11,7 +11,7 @@ Graphic Novel Operation System - A practical guideline for creating Graphic Nove
 
 1.  **Synopsis**
     2–3 paragraphs covering what happens, who it follows, and what's at stake. Your north star — every later decision checks back here.
-2.  **Core Narrative**
+2.  **Thematic Core**
     What the story is really about beneath the plot — the emotional truth, the theme, the question the story is asking. Not "a detective solves a murder" but **"a man confronts what he's willing to ignore to feel safe."**
 3.  **Story Arc**
     The transformation map: where characters start emotionally and morally, what pressures force them to change, and where they end up. The *why* beneath the *what*. Distinct from the synopsis — the synopsis says what happens, the arc explains what it means for the people it happens to.
