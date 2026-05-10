@@ -28,6 +28,7 @@ The Marvel Method gives artists tremendous creative freedom and can produce unex
 **Examples and resources:**
 - [Frank Gogol — How to Format a Comic Script](https://www.frankgogol.com/making-comics/how-to-format-a-comic-script-explained/) — Covers both plot and full script with examples and compares several formatting variations used by working writers today.
 - [Alec Worley — How I Format a Comic Book Script](https://alecworley.substack.com/p/how-i-format-a-comic-book-script) — A 2000 AD writer explains his full script approach in depth, with a downloadable PDF example and the corresponding finished art page.
+- The [Comic Book Script Archive](https://comicsexperience.com/scripts/) was founded by Tim Simmons because he couldn’t find an online resource for comic book scripts. Eventually, he decided to make one. Comics Experience is pleased to present Tim’s archive as an educational resource for those interested in comic book scripting.
 
 ---
 
